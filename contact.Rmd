@@ -1,0 +1,10 @@
+---
+title: "Contact"
+output: html_document
+---
+
+Below are several ways that you can contact or connect with me. I check email most reliably.
+
+* <blakecarnold7@gmail.com>
+* [LinkedIn](https://www.linkedin.com/in/blake-arnold/)
+* [Facebook](https://www.facebook.com/blake.arnold.503)

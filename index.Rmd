@@ -1,0 +1,20 @@
+---
+title: ""
+output: html_document
+---
+
+<br>
+I'm Blake. This is a new website, where I plan on sharing some of my writing and personal projects. **More coming soon!**
+
+### A little about me
+
+My interest is in using data and technology to make the world a better place. Principally, I'm interested in working on problems that satisfy three conditions:
+
+1. If solved, this would materially improve the lives of a large number of people to a great degree.
+2. The solution will likely require tools I have an aptitude and affinity for (especially machine learning/statistics and economics).
+3. The people I'll be working with are intelligent, kind, and extremely curious.
+
+Today, I think many of these problems lie in healthcare, finance, and education, so I spend most of my time reading, thinking about, and working on these things.
+
+Currently, I'm working on improving the quality and cost of care for people with chronic conditions at [Livongo](http://www.livongo.com/). Previously, I worked on rebuilding primary care at [Forward](http://www.goforward.com/) and advised large technology, healthcare, and financial services firms and governmental agencies at McKinsey & Co. Prior to that, I studied Mathematics, Statistics, and Economics at the University of Michigan.
+

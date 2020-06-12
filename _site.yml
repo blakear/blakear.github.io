@@ -1,0 +1,11 @@
+name: "Blake C. Arnold"
+navbar:
+  title: "Blake C. Arnold"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Contact"
+      href: contact.html
+output:
+  html_document:
+    theme: paper
