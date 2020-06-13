@@ -1,8 +1,9 @@
 ---
-title: "Contact"
+title: ""
 output: html_document
 ---
 
+<br>
 Below are several ways that you can contact or connect with me. I check email most reliably.
 
 * <blakecarnold7@gmail.com>

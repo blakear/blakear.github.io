@@ -4,8 +4,14 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Contact"
+    - text: "Writing"
+      href: writing.html
+  right:
+    - icon: fa-envelope fa-lg
       href: contact.html
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/blake-arnold/
 output:
   html_document:
     theme: paper
+    css: 'styles.css'
