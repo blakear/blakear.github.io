@@ -1,13 +1,11 @@
 ---
-title: ""
+title: "Hi there!"
 output: html_document
 ---
 
-<br>
-
 <img src="images/blake.jpeg" style="width:25%; border:2px solid; margin-right: 40px" align="left">
 
-Hi, I'm Blake. This is a new website, where I plan on sharing some of my writing and personal projects. **More coming soon!**
+I'm Blake. This is a new website, where I plan on sharing some of my writing and personal projects. **More coming soon!**
 
 ### A little about me
 

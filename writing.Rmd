@@ -1,7 +1,6 @@
 ---
-title: ""
+title: "Writing"
 output: html_document
 ---
 
-<br>
 I plan on adding blog posts directly to this site in the future. For now, you can find my writing on [Medium](https://medium.com/@blakecarnold7). 

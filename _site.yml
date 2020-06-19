@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "Writing"
       href: writing.html
+    - text: "Reading"
+      href: reading.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html

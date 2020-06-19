@@ -1,0 +1,10 @@
+---
+title: "Reading"
+output: html_document
+---
+
+Below are some of the books I've read in the last couple of years with my personal star ratings. I only put this together in mid-2020, so I know I've missed several. I tend to go in spurts reading a lot about a certain topic before moving on. Some of the topics I've spent the most time learning about and applying in the last couple of years are behavioral economics, Bayesian statistics, and bandit algorithms/reinforcement learning.
+
+I typically take analogue notes, but I'm looking into digital options that don't disrupt my flow. If I find one, I'll add my notes here in the future.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrtebN8d98udx9fr?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
